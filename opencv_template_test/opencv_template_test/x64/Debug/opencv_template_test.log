@@ -1,0 +1,4 @@
+﻿  hello.cpp
+D:\vs2022Src\opencv_template_test\opencv_template_test\hello.cpp(10,24): warning C4267: “初始化”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\vs2022Src\opencv_template_test\opencv_template_test\hello.cpp(12,20): warning C4018: “<”: 有符号/无符号不匹配
+  opencv_template_test.vcxproj -> D:\vs2022Src\opencv_template_test\x64\Debug\opencv_template_test.exe
