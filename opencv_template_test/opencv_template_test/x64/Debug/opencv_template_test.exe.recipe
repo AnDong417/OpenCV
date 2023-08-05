@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\vs2022Src\opencv_template_test\x64\Debug\opencv_template_test.exe</FullPath>
+      <FullPath>D:\vs2022Src\OpenCV\opencv_template_test\x64\Debug\opencv_template_test.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
