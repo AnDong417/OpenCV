@@ -133,9 +133,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hello.cpp" />
+    <ClCompile Include="user_config.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anton_type.h" />
+    <ClInclude Include="include.h" />
+    <ClInclude Include="user_config.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

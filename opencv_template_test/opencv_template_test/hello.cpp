@@ -1,6 +1,6 @@
 #include <iostream>
 #include <opencv2/opencv.hpp>
-#include "anton_type.h"
+#include "include.h"
 using namespace std;
 using namespace cv;
 
@@ -45,8 +45,12 @@ int main()
 	double time_ms = PrintMs();
 	cout << "time_ms = " << time_ms << endl;
 
-	namedWindow("image");
-	imshow("image", img);
+	//draw rectanglar
+	Draw pd;
+	pd.draw_rectanglar(img);
+
+	//namedWindow("image");
+	//imshow("image", img);
 	waitKey(6000);
 
 	return 0;

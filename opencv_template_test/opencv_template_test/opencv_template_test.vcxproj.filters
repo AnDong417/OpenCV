@@ -18,9 +18,18 @@
     <ClCompile Include="hello.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="user_config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anton_type.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="user_config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
